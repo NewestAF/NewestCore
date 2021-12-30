@@ -1,0 +1,3 @@
+name: NewestCore
+version: '${version}'
+main: com.newestaf.newestcore.NewestCore
